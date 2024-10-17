@@ -9,7 +9,7 @@
 
 ## About me
 
-Hello there 👋. I’m Hugo Andreassa, a skilled and results-driven iOS Developer with a strong background in Mobile App Development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the iOS ecosystem, I build solutions that are not only functional but also delightful.
+I’m Hugo Andreassa, a skilled and results-driven iOS Developer with a strong background in Mobile App Development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the iOS ecosystem, I build solutions that are not only functional but also delightful.
 
 ## Get in touch :coffee:
 
